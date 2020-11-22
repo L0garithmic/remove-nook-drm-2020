@@ -18,7 +18,7 @@ For sake of simplicity. I am just going to assume you have Calibre installed and
 **Installing Android Studio**
 - Download Android Studio
 - Run installer
-- Leave Android Virtual Device [Selected](https://raw.githubusercontent.com/L0garithmic/remove-nook-drm-2020/main/images/001-avd.jpg "selected") 
+- Leave Android Virtual Device [Selected](https://github.com/L0garithmic/remove-nook-drm-2020/blob/main/images/001-avd.jpg) 
 - Leave Default directory
 - Run Android Studio
 
@@ -33,20 +33,20 @@ If this is your first install of Android Studio
 - No Activity, `Next`, Leave Default, `Next`
 
 If you have already ran Android Studio, start here
-- [Open](url) the `AVD Manager`.
+- [Open](https://github.com/L0garithmic/remove-nook-drm-2020/blob/main/images/002-avdmgr.jpg) the `AVD Manager`.
 - `Create Virtual Device`
 - Nexus 5 `Next`
 - x86 Images tab, scroll down.
-- `Download` Android 7.1.1 x86 [(Not Google APK](url))
+- `Download` Android 7.1.1 x86 [(Not Google APK](https://github.com/L0garithmic/remove-nook-drm-2020/blob/main/images/003-nougat.jpg))
 - `Accept` if necessary, otherwise `Next`
 - Leave Default, `Finish`
-- Click `Play` under [Actions](url)
+- Click `Play` under [Actions](https://github.com/L0garithmic/remove-nook-drm-2020/blob/main/images/004-playact.jpg)
 - You should now see an android Emulator
 
 **Nook App Setup**
 Assuming you have already downloaded the Nook APK. 
-- [drag the APK](url) into the virtual device
-- Click [up arrow](url) on bottom of device
+- [drag the APK](https://github.com/L0garithmic/remove-nook-drm-2020/blob/main/images/005-dragapk.jpg) into the virtual device
+- Click [up arrow](https://github.com/L0garithmic/remove-nook-drm-2020/blob/main/images/006-uparrow.jpg) on bottom of device
 - Open Nook App
 - Login to your account
 - Wait for your Library to load
