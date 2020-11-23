@@ -6,9 +6,9 @@ This guide is for **Windows**. Also Before you begin, JFYI. Android Studio is a 
 
 ## Requirements
 
-**[Android Studio](https://developer.android.com/studio/ "Android Studio")** and Android Virtual Device (Check the box when installing)
-**[Calibre](https://download.calibre-ebook.com/ "Calibre")** Use version 4.xx. DeDRM does not work on 5xx, as of 11/01/2020
-**[DeDRM Plugin](https://github.com/apprenticeharper/DeDRM_tools/releases/latest "DeDRM Plugin")** - Version 6.6.3 as of as of 11/01/2020
+**[Android Studio](https://developer.android.com/studio/ "Android Studio")** and Android Virtual Device (Check the box when installing)   
+**[Calibre](https://download.calibre-ebook.com/ "Calibre")** Use version 4.xx. DeDRM does not work on 5xx, as of 11/01/2020   
+**[DeDRM Plugin](https://github.com/apprenticeharper/DeDRM_tools/releases/latest "DeDRM Plugin")** - Version 6.6.3 as of as of 11/01/2020   
 **[Nook APK](https://apkpure.com/nook-read-ebooks-magazines/bn.ereader/versions)** - I used v5.0.2.38.
 
 For sake of simplicity. I am just going to assume you have Calibre installed and the De-DRM plugin already working. If not, go read [Alfs blog](https://apprenticealf.wordpress.com/ "Alf's blog"). Come back once that is done.
