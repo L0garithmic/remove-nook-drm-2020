@@ -11,7 +11,8 @@ This guide is for **Windows**. Also Before you begin, JFYI. Android Studio is a 
 **[DeDRM Plugin](https://github.com/apprenticeharper/DeDRM_tools/releases/latest "DeDRM Plugin")** - Version 6.6.3 as of as of 11/01/2020   
 **[Nook APK](https://apkpure.com/nook-read-ebooks-magazines/bn.ereader/versions)** - I used v5.0.2.38.
 
-For sake of simplicity. I am just going to assume you have Calibre installed and the De-DRM plugin already working. If not, go read [Alfs blog](https://apprenticealf.wordpress.com/ "Alf's blog"). Come back once that is done.
+For sake of simplicity. I am just going to assume you have Calibre installed and the De-DRM plugin already working.    
+If not, go read [Alfs blog](https://apprenticealf.wordpress.com/ "Alf's blog"). Come back once that is done.
 
 ## Setup
 
@@ -66,7 +67,7 @@ If the above download did not work. Means more work for you.
 - run above commands changing out `bn.reader` for new foldername.
 
 ## Extracting Hash from Database
-The hash file will be saved as `mykey.b64` in `%LOCALAPPDATA%\Android\Sdk\platform-tools`
+The hash file will be saved as `mykey.b64` in `%LOCALAPPDATA%\Android\Sdk\platform-tools`   
 Just paste the location into the url bar of any file explorer in windows.
 - Open up a fresh [Command Prompt](https://www.lifewire.com/how-to-open-command-prompt-2618089 "CMD") from start menu
 - run `cd %LOCALAPPDATA%\Android\Sdk\platform-tools`
