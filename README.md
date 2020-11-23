@@ -77,9 +77,9 @@ Just paste the location into the url bar of any file explorer in windows.
 - then `.quit` and `exit`
 
 ## Configuring De-DRM
-Open Calibre. Open Plugins settings. `Preferences -> Plugins` (or hit `Ctrl+P`), expand `File Type`, select DeDRM and `double-click` (or click `Customize Plugin`)
+Open Calibre. Open Plugins settings. `Preferences -> Plugins` (or hit `Ctrl+P` -> `Preferences`), expand `File Type`, select DeDRM and `double-click` (or click `Customize Plugin`)
 
-Click `Barnes and Noble ebooks`, click `Import Existing Keyfiles`, browse to the `mykey.b64` file mentioned above. Click `Open`. Then click `Close`, `OK`, `Apply` and `Close`
+Click `Barnes and Noble ebooks`, click `Import Existing Keyfiles`, browse to the `mykey.b64` file `%LOCALAPPDATA%\Android\Sdk\platform-tools`. Click `Open`. Then click `Close`, `OK`, `Apply` and `Close`
 
 Now you can import your Nook Books. Which if you used the Nook Android App to download them as mentioned in the **Nook App Setup** part, they should all be here `%LOCALAPPDATA%\Android\Sdk\platform-tools\bn.ereader\files\B&N Downloads\Books`. If your ebooks are already imported, delete them and re-import them. DeDRM only removes the DRM on books during the import phase. 
 
